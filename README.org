@@ -1,0 +1,10 @@
+* cl-incognia
+
+Common Lisp client library for Incognia's API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inloco/cl-incognia.git   |
+| commit  | {"messa  |
+| systems | cl-incognia |
+|---------+-------------------------------------------|
+
