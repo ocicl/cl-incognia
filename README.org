@@ -4,7 +4,7 @@ Common Lisp client library for Incognia's API
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/inloco/cl-incognia.git   |
-| commit  | {"messa  |
+| commit  | 7908743  |
 | systems | cl-incognia |
 |---------+-------------------------------------------|
 
