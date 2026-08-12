@@ -8,4 +8,4 @@ Common Lisp client library for Incognia's API
 | systems | cl-incognia |
 |---------+-------------------------------------------|
 
- 
+  
